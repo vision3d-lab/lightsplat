@@ -1,6 +1,8 @@
-# [CVPR 2026] LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds
+<h1 style="margin-bottom:6px;">
+  [CVPR 2026] LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds
+</h1>
 
-<p style="margin-top:-30px;">
+<p style="margin-top:0;">
   <a href="https://devappendcbangj.github.io" style="text-decoration:none;">Jaehun Bang</a> ·
   <a href="mailto:jh4011@postech.ac.kr" style="text-decoration:none;">Jinhyeok Kim</a> ·
   <a href="mailto:mzkim@unist.ac.kr" style="text-decoration:none;">Minji Kim</a> ·
