@@ -1,13 +1,12 @@
 # LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds
 
-**Jaehun Bang**, **Jinhyeok Kim**, **Minji Kim**, **Seungheon Jeong**, **Kyungdon Joo**
+Jaehun Bang, Jinhyeok Kim, Minji Kim, Seungheon Jeong, Kyungdon Joo
 
-[![Project Page](https://img.shields.io/badge/Project-Page-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://vision3d-lab.github.io/lightsplat/)
-[![arXiv](https://img.shields.io/badge/arXiv-2603.24146-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.24146)
+[![Project](https://img.shields.io/badge/Project-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://vision3d-lab.github.io/lightsplat/)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.24146-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.24146)
+![CVPR](https://img.shields.io/badge/CVPR%202026-ACCEPTED-2e7d32?style=flat)
 
-![CVPR 2026](https://img.shields.io/badge/CVPR%202026-accepted-2e7d32?style=for-the-badge)
-
----
+<br>
 
 Code release is planned.
 
