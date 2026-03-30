@@ -13,13 +13,16 @@
 </p>
 
 <p>
+  <b style="color:#b31b1b;">CVPR 2026</b>
+</p>
+
+<p>
   <a href="https://vision3d-lab.github.io/lightsplat/">
     <img src="https://img.shields.io/badge/Project-Page-0A66C2?style=flat&logo=googlechrome&logoColor=white">
   </a>
   <a href="https://arxiv.org/abs/2603.24146">
     <img src="https://img.shields.io/badge/arXiv-2603.24146-b31b1b?style=flat&logo=arxiv&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/CVPR%202026-2f2f2f?style=flat">
 </p>
 
 <p><i>Code release is planned.</i></p>
