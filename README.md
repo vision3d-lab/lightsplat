@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p><i>Code will be released soon..</i></p>
+<p><i>Code will be released soon.</i></p>
 
 ---
 
