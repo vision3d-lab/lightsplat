@@ -1,8 +1,7 @@
 <h1 style="margin-bottom:4px;">
-  [CVPR 2026]
   <img src="./lightning.png" width="28"
-       style="vertical-align:-6px; margin:0 6px;">
-  LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds
+    style="vertical-align:-6px; margin:0 6px;">
+  [CVPR 2026] LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds
 </h1>
 
 <p style="margin-top:0;">
