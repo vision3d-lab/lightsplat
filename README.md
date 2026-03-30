@@ -4,9 +4,7 @@ Jaehun Bang, Jinhyeok Kim, Minji Kim, Seungheon Jeong, Kyungdon Joo
 
 [![Project](https://img.shields.io/badge/Project-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://vision3d-lab.github.io/lightsplat/)
 [![arXiv](https://img.shields.io/badge/arXiv-2603.24146-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.24146)
-![CVPR](https://img.shields.io/badge/CVPR%202026-ACCEPTED-2e7d32?style=flat)
-
-<br>
+![CVPR](https://img.shields.io/badge/CVPR%202026-2f2f2f?style=flat)
 
 Code release is planned.
 
