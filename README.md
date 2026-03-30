@@ -23,8 +23,6 @@
 
 <p><i>Code will be released soon.</i></p>
 
-<br>
-
 ## Citation
 
 ```bibtex
