@@ -1,4 +1,4 @@
-<h1 style="margin-bottom:6px;">
+<h1 style="margin-bottom:4px;">
   [CVPR 2026] LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds
 </h1>
 
