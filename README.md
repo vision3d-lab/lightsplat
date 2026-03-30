@@ -1,4 +1,4 @@
-# LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds
+# [CVPR 2026] LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds
 
 <p>
   <a href="https://devappendcbangj.github.io" style="text-decoration:none;">Jaehun Bang</a>
@@ -13,10 +13,6 @@
 </p>
 
 <p>
-  <b style="color:#b31b1b;">CVPR 2026</b>
-</p>
-
-<p>
   <a href="https://vision3d-lab.github.io/lightsplat/">
     <img src="https://img.shields.io/badge/Project-Page-0A66C2?style=flat&logo=googlechrome&logoColor=white">
   </a>
@@ -25,7 +21,7 @@
   </a>
 </p>
 
-<p><i>Code release is planned.</i></p>
+<p><i>Code will be released soon..</i></p>
 
 ---
 
