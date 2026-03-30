@@ -28,7 +28,7 @@
 ## Citation
 
 ```bibtex
-@inproceedings{lightsplat2026,
+@inproceedings{bang2026lightsplat,
   title     = {LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds},
   author    = {Jaehun Bang and Jinhyeok Kim and Minji Kim and Seungheon Jeong and Kyungdon Joo},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
