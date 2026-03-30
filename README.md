@@ -1,5 +1,5 @@
 <h1 style="margin-bottom:4px;">
-  <img src="./assets/lightning.png" width="28" style="vertical-align:-4px; margin-right:6px;">
+  <img src="./lightning.png" width="28" style="vertical-align:-4px; margin-right:6px;">
   [CVPR 2026] LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds
 </h1>
 
